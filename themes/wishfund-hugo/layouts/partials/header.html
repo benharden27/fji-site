@@ -16,7 +16,7 @@
             {{ range .Site.Params.social }}
             <a href="{{ .link | safeURL }}" target="_blank"><i class="{{ .icon }}"></i></a>
             {{ end }}
-            
+
             {{ if .Site.Params.navBtn.enable }}
             <a href="{{ .Site.Params.navBtn.link | absURL }}" class="top-btn">{{ .Site.Params.navBtn.label }}</a>
             {{ end }}
@@ -39,7 +39,7 @@
 
       <div class="collapse navbar-collapse text-center" id="navbarsExample09">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item active"><a class="nav-link" href="{{ .Site.BaseURL }}">{{ .Site.Params.Home }}</a></li>
+          <!-- <li class="nav-item active"><a class="nav-link" href="{{ .Site.BaseURL }}">{{ .Site.Params.Home }}</a></li> -->
           {{ range .Site.Menus.main }}
           {{ if .HasChildren }}
           <li class="nav-item dropdown">
