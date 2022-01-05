@@ -67,7 +67,7 @@ team:
     link : "volunteer"
   teamMember:
     # team member loop
-    - name : "Justin hammer"
+    - name : "Ben Harden"
       designation : "Student"
       image : "images/team/volunteer-img1.1.jpg"
       social:
