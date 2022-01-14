@@ -1,13 +1,21 @@
-########################### about ###############################
-about:
+########################### content #############################
+content:
+    enable: false
+
+########################### lead ################################
+lead:
+    enable: true
+    image: images/about/test2.jpg
+    title : "Promoting social justice through agriculture for a fairer future"
+    leadContent : "We want to empower people to understand the injustices in the history and current state of our food system and to take action to create a local, culturally-relevant food future."
+    content : "We founded the Food Justice Initiative in 2021 as a platform to support the new Race, Climate and Food Program at Falmouth High School, MA. This program is hopefully just the first in a series of efforts to engage our community in fully realizing a fair future where we can learn from, and overcome, historic injustices and take action to ensure a fair food future in a changing climate."
+
+########################### land-acknowledgement ###############################
+landack:
   enable : true
-  image : "images/about/img-3.jpg"
-  title : "Welcome to Charite NonProfit Organization"
-  leadContent : "Charite is the world’s #1 fundraising site forcharitable causes. Raise money for over 1.5
-            million charities."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-            labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat"
+  image : "images/about/test.jpg"
+  title : "Land Acknowledgement"
+  leadContent : "We are living and working on the ancestral lands of the Wampannoag People who continue to thrive in the region dispite centuries of displacement, land-theft, genocide and enforced assimilation undertaken by white settlers. We are committed to knowing our Wampanoag neighbors better and including their voices in our work."
 
 
 ############################# partners ##########################
@@ -58,104 +66,36 @@ history:
 
 ############################### Team ##############################
 team:
-  enable : false
-  subtitle : "Our volunteer"
-  title : "Expert volunteer to get best service"
+  enable : true
+  title : "Our Core Team"
   button:
-    enable : true
+    enable : false
     label : "Become a volunteer"
     link : "volunteer"
   teamMember:
     # team member loop
+    - name : "André Price"
+      description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      image : "images/team/andreprice.jpg"
+
+    # team member loop
     - name : "Ben Harden"
-      designation : "Student"
-      image : "images/team/volunteer-img1.1.jpg"
-      social:
-        - name : "facebook"
-          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
-          link : "#"
-
-        - name : "twitter"
-          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-          link : "#"
-
-        - name : "instagram"
-          icon : "ti-instagram" # themify icon pack https://themify.me/themify-icons
-          link : "#"
-
-        - name : "linkedin"
-          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-          link : "#"
+      description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      image : "images/team/benharden.jpg"
 
     # team member loop
-    - name : "Jason roy"
-      designation : "Businessman"
-      image : "images/team/volunteer-img1.2.jpg"
-      social:
-        - name : "facebook"
-          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
-          link : "#"
+    - name : "Matt Liles"
+      description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      image : "images/team/mattliles.jpg"
 
-        - name : "twitter"
-          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-          link : "#"
 
-        - name : "instagram"
-          icon : "ti-instagram" # themify icon pack https://themify.me/themify-icons
-          link : "#"
-
-        - name : "linkedin"
-          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-          link : "#"
-
-    # team member loop
-    - name : "Henry oswald"
-      designation : "CO founder"
-      image : "images/team/volunteer-img1.3.jpg"
-      social:
-        - name : "facebook"
-          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
-          link : "#"
-
-        - name : "twitter"
-          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-          link : "#"
-
-        - name : "instagram"
-          icon : "ti-instagram" # themify icon pack https://themify.me/themify-icons
-          link : "#"
-
-        - name : "linkedin"
-          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-          link : "#"
-
-    # team member loop
-    - name : "John Doe"
-      designation : "Businessman"
-      image : "images/team/volunteer-img1.1.jpg"
-      social:
-        - name : "facebook"
-          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
-          link : "#"
-
-        - name : "twitter"
-          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-          link : "#"
-
-        - name : "instagram"
-          icon : "ti-instagram" # themify icon pack https://themify.me/themify-icons
-          link : "#"
-
-        - name : "linkedin"
-          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-          link : "#"
 
 ################### call to action ###########################
 cta:
-  enable : true
+  enable : false
   # cta content comes from homepage.yml
 
 ############################## Gallery ######################
 gallery:
-  enable : true
+  enable : false
   # gallery items comes from homepage.yml

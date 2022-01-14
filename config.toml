@@ -57,7 +57,7 @@ paginate = 6
 
   [[menu.main]]
   weight = 5
-  name = "Get Involved"
+  name = "Contact"
   URL = "contact"
 
   ################# footer menu ##################
@@ -72,7 +72,7 @@ logo = "images/fji-logo.png"
 home = "Home"
 # Contact Information
 phone = "012548722120"
-email = "example@email.com"
+email = "foodjusticeinitiative@gmail.com"
 location = "Flat 20, Reynolds Neck, North Helenaville, FV77"
 copyright = "&copy; Food Justice Initiative 2022 (a theme by [themefisher](https://themefisher.com/))"
 # Meta data

@@ -7,23 +7,23 @@
     <div class="row">
       <div class="col-lg-6 col-sm-12 col-md-6">
         <div class="contact-content">
-          <h2 class="mb-5">We’d love to hear from you! <br>Give us call, send us a message?</h2>
+          <h2 class="mb-5">We’d love to hear from you!</h2>
           <ul class="address-block list-unstyled">
-            <li>
+            <!-- <li>
               <h6 class="mb-2">Address</h6>
               {{ .Site.Params.location | markdownify }}
-            </li>
+            </li> -->
             <li>
               <h6 class="mb-2">email us</h6>
               {{ .Site.Params.email }}
             </li>
-            <li>
+            <!-- <li>
               <h6 class="mb-2">Phone Number</h6>
               {{ .Site.Params.phone }}
-            </li>
+            </li> -->
           </ul>
 
-          <ul class="social-icons list-inline mt-5">
+          <!-- <ul class="social-icons list-inline mt-5">
             <li>
               <h6 class="mb-3">Find us on social media</h6>
             </li>
@@ -32,16 +32,16 @@
               <a href="{{ .link | safeURL }}"><i class="{{ .icon }} mr-2"></i></a>
             </li>
             {{ end }}
-          </ul>
+          </ul> -->
         </div>
       </div>
-      <div class="col-lg-5 col-sm-12 col-md-6">
+      <!-- <div class="col-lg-5 col-sm-12 col-md-6">
         <div class="google-map mt-5 mt-lg-0">
           <div id="map" data-latitude="{{ with .Site.Params.mapLatitude }} {{ . }} {{ end }}"
             data-longitude="{{ with .Site.Params.mapLongitude }} {{ . }} {{ end }}"
             data-marker="{{ with .Site.Params.mapMarker }} {{ . | absURL }} {{ end }}"></div>
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
 </section>

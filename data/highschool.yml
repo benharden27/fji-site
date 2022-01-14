@@ -1,0 +1,27 @@
+########################### content ################################
+content:
+  enable: false
+
+########################### lead ################################
+lead:
+    enable: true
+    image: images/about/test2.jpg
+    title : "Race, Climate and Food Program"
+    leadContent: "A program in practical agriculture and the racial injustices and climate conditions that continue to shape our food system."
+    content:
+      - title: "Racial Justice"
+        image: "images/high-school/plantation.jpg"
+        imagealt: "Photograph from the North Wind Picture Archives/Alamy Stock Photo"
+        content: "Students will explore the history of racial injustices with regards to land ownership and food access and how this has shaped which people have acquired wealth and maintained access to healthy food in the present day."
+      - title: "Climate Change"
+        image: "images/high-school/coast.jpg"
+        imagealt: "Credit: Ralph Tiner/USFWS"
+        content: With climate change expected to shift the agricultural picture and have a larger impact on low income earners and communities of color, students will explore what we can do to ensure equitable adaptation.
+      - title: "Farm Action"
+        image: "images/high-school/crops.jpg"
+        imagealt: "Credit: Hans Splinter"
+        content: "Students will take their learning literally into the field. We will use a small farm to empower students to take sustainable action and positively impact our community. They will plant healthy, culturally-appropriate food and have agency in all aspects of planning from sowing to distribution."
+      - title: "Local Context"
+        image: "images/high-school/emerald.jpg"
+        imagealt: "Manuel Emerald with daughter Emily. 1942. Courtesy Bee Emerald"
+        content: "Cape Cod will form a major backdrop to this class given the rich agricultural history and cultural diversity of our land stewards. In order to make informed choices about the future, students need to know their neighbors, feel connected to their history, and know what impact they can have."

@@ -2,6 +2,8 @@
 
 {{ partial "page-title.html" . }}
 
+{{ if .Site.Data.highschool.content.enable }}
+
 <section class = "section about-page">
   <div class = "container">
     <div class = "row">
@@ -9,5 +11,36 @@
     </div>
   </div>
 </section>
+
+{{ end }}
+
+
+<!-- lead -->
+{{ if .Site.Data.highschool.lead.enable }}
+{{ with .Site.Data.highschool.lead }}
+<section class="section about-page">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-9 about-item-content pl-4">
+        <h2 class="mb-4 content-title">{{ .title | markdownify }}</h2>
+        <p class="lead">{{ .leadContent | markdownify }}</p>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      {{ range .content }}
+        <div class="pl-4 col-md-6">
+          <div class="intro-item mb-5 mb-lg-0">
+            <h4 class="mt-4 mb-3">{{ .title | markdownify }}</h4>
+            <img src="{{ .image | absURL}}" alt="{{ .imagealt }}" class="img-fluid w-100 pb-3">
+            <p>{{ .content | markdownify }}</p>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /lead -->
 
 {{ end }}

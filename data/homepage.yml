@@ -3,7 +3,7 @@ banner:
   enable : true
   subtitle : "Local Growing"
   title : "Sowing Seeds of <br>Social Justice"
-  content : "We work with students to better understand the root causes of social and climate injustice and how to work together towards a better future through farm action."
+  content : "Empowering people to understand the injustices inherant in our food system and how to work together towards a better future through farm action."
   button:
     enable : true
     label : "Learn More"
@@ -25,17 +25,17 @@ intro:
         enable: true
         label: "test"
         link: "about"
-        
+
     # intro item loop
     - title : "Give Donation"
       image : "images/about/image-2.jpg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
-      
+
     # intro item loop
     - title : "Become a Volunteer"
       image : "images/about/image-3.jpg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
-      
+
     # intro item loop
     - title : "Help The children"
       image : "images/about/image-1.jpg"
@@ -47,7 +47,7 @@ video:
   title : "We Make a Difference <br>in their Life"
   videoThumb : "images/bg/bg-3.jpg"
   video: "https://www.youtube.com/watch?v=jrkvirglgaQ"
-  
+
 ################################# funfacts ###############################
 funfacts:
   enable : false
@@ -55,15 +55,15 @@ funfacts:
     # funfacts item loop
     - title : "Years of Experience"
       count: "18"
-      
+
     # funfacts item loop
     - title : "Active Volunteer"
       count: "1460"
-      
+
     # funfacts item loop
     - title : "Availble Country"
       count: "92"
-      
+
     # funfacts item loop
     - title : "Million People Helped"
       count: "54"
@@ -124,26 +124,25 @@ volunteer:
       # partner loop
       - logo : "images/clients/client1.png"
         link : "#"
-        
+
       # partner loop
       - logo : "images/clients/client2.png"
         link : "#"
-        
+
       # partner loop
       - logo : "images/clients/client4.png"
         link : "#"
-        
+
       # partner loop
       - logo : "images/clients/client5.png"
         link : "#"
-        
+
       # partner loop
       - logo : "images/clients/client6.png"
         link : "#"
-  
+
   # form
   form:
     subtitle : "Join With us"
     title : "Become A Volunteer"
     formAction : "#" # form works with formspree.io
-    
