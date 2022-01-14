@@ -55,11 +55,6 @@ paginate = 6
   URL = "high-school"
   weight = 4
 
-  [[menu.main]]
-  weight = 5
-  name = "Contact"
-  URL = "contact"
-
   ################# footer menu ##################
 
   [[menu.footer]]
