@@ -58,8 +58,13 @@ paginate = 6
   ################# footer menu ##################
 
   [[menu.footer]]
-  name = "about"
+  name = "About"
   URL = "about"
+  weight = 2
+
+  [[menu.footer]]
+  name = "High School Program"
+  URL = "high-school"
   weight = 2
 
 [params]

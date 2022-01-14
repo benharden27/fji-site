@@ -2,24 +2,24 @@
 <footer class="footer section">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-4 col-md-6 col-sm-6">
+			<div class="col-lg-6 col-md-6 col-sm-6">
 				<div class="footer-widget widget">
-					<h4 class="text-capitalize mb-4 text-white">Company</h4>
-					<p>{{ .Site.Params.location | markdownify }}</p>
+					<h4 class="text-capitalize mb-4 text-white">Food Justice Initiative</h4>
+					<!-- <p>{{ .Site.Params.location | markdownify }}</p> -->
 
 					<ul class="list-unstyled footer-menu mt-4">
-						<li><a href="tel:{{ .Site.Params.phone }}"><i class="ti-mobile"></i>{{ .Site.Params.phone }}</a></li>
+						<!-- <li><a href="tel:{{ .Site.Params.phone }}"><i class="ti-mobile"></i>{{ .Site.Params.phone }}</a></li> -->
 						<li><a href="mailto:{{ .Site.Params.email }}"><i class="ti-email"></i>{{ .Site.Params.email }}</a></li>
 					</ul>
-					<ul class="list-inline footer-socials">
+					<!-- <ul class="list-inline footer-socials">
 						{{ range .Site.Params.social }}
 						<li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
 						{{ end }}
-					</ul>
+					</ul> -->
 				</div>
 			</div>
 
-			<div class="col-lg-2 col-md-6 col-sm-6">
+			<div class="col-lg-6 col-md-6 col-sm-6">
 				<div class="widget footer-widget">
 					<h4 class="text-capitalize mb-4 text-white">Quick Links</h4>
 
@@ -30,7 +30,7 @@
 					</ul>
 				</div>
 			</div>
-
+<!--
 			<div class="col-lg-3 col-md-6 col-sm-6">
 				<div class="footer-widget widget">
 					<h4 class="text-capitalize mb-4 text-white">{{ .Site.Params.subscription.title }}</h4>
@@ -59,8 +59,9 @@
 						</div>
 					</div>
 				</div>
-			</div>
-		</div>
+			</div> -->
+
+		</div> 
 
 		<div class="footer-btm py-4">
 			<div class="row justify-content-center">

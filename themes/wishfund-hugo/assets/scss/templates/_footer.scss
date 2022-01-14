@@ -6,6 +6,10 @@
     color: rgba(255,255,255,.7);
     a{
       font-weight: 600;
+      color: rgba(255,255,255,.7);
+      &:hover{
+        color: $primary-color;
+      }
     }
   }
 }
@@ -68,7 +72,7 @@
       }
 
       i{
-        color: $primary-color; 
+        color: $primary-color;
         margin-right: 9px;
       }
     }
@@ -123,5 +127,3 @@
 @include desktop{
 
 }
-
-
