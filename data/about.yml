@@ -75,12 +75,12 @@ team:
   teamMember:
     # team member loop
     - name : "André Price"
-      description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      description : "André is a Marine Resource Management Specialist at [NOAA Northeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center). He has many years of exeprience workgin with undergrads and in the construction, operation and management of aquatic systems. He is a course contributor to the Woods Hole [Partnership Education Program](https://www.woodsholediversity.org/pep/), a diversity effort to bring students from under-represented backgrounds into the environmental science field."
       image : "images/team/andreprice.jpg"
 
     # team member loop
     - name : "Ben Harden"
-      description : "Ben is an Assistant Professor of Oceanography at the [Sea Education Association](https://www.sea.edu), where he teaches environmental research and communication. He is also the Course Director for the Woods Hole [Partnership Education Program](https://www.woodsholediversity.org/pep/), a diversity effort to bring students from under-represented backgrounds into the environmental science field. When not teaching, Ben can be found on his home farm in Falmouth, MA thinking of new ways to grow vegetables year round."
+      description : "Ben is an Assistant Professor of Oceanography at the [Sea Education Association](https://www.sea.edu), where he teaches environmental research and communication. He is also the Course Director for the Woods Hole [Partnership Education Program](https://www.woodsholediversity.org/pep/). When not teaching, Ben can be found on his home farm in Falmouth thinking of new ways to grow vegetables year round."
       image : "images/team/benharden.jpg"
 
     # team member loop
