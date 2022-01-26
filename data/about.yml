@@ -75,17 +75,15 @@ team:
   teamMember:
     # team member loop
     - name : "André Price"
-      description : "André is a Marine Resource Management Specialist at [NOAA Northeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center). He has many years of exeprience workgin with undergrads and in the construction, operation and management of aquatic systems. He is a course contributor to the Woods Hole [Partnership Education Program](https://www.woodsholediversity.org/pep/), a diversity effort to bring students from under-represented backgrounds into the environmental science field."
+      description : "André is a Marine Resource Management Specialist at [NOAA Northeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center). He has many years of exeprience working with undergrads and in the construction, operation and management of aquatic systems. He is a course contributor to the Woods Hole [Partnership Education Program](https://www.woodsholediversity.org/pep/), a diversity effort to bring students from under-represented backgrounds into the environmental science field."
       image : "images/team/andreprice.jpg"
 
-    # team member loop
     - name : "Ben Harden"
-      description : "Ben is an Assistant Professor of Oceanography at the [Sea Education Association](https://www.sea.edu), where he teaches environmental research and communication. He is also the Course Director for the Woods Hole [Partnership Education Program](https://www.woodsholediversity.org/pep/). When not teaching, Ben can be found on his home farm in Falmouth thinking of new ways to grow vegetables year round."
+      description : "Ben is an Assistant Professor of Oceanography at the [Sea Education Association](https://www.sea.edu), where he teaches environmental research and communication. He is also the Course Director for the Woods Hole [Partnership Education Program](https://www.woodsholediversity.org/pep/). When not teaching, Ben can be found osfdsf his home farm in Falmouth thinking of new ways to grow vegetables year round."
       image : "images/team/benharden.jpg"
 
-    # team member loop
     - name : "Matt Liles"
-      description : "Matt is a Falmouth High alum, currently working as a solar system designer for Cotuit Solar LLC in Mashpee, MA. He has worked in middle schools in both Boston and New York City, and for Falmouth's own Compost With Me LLC and Nobska Farms Inc. When not working, you'll find Matt playing music or some kind of sport - his favorite of which is pond hockey... all the more reason to confront climate change."
+      description : "Matt is a Falmouth High alum, currently working as a solar system designer for [Cotuit Solar LLC](https://cotuitsolar.com/) in Mashpee, MA. He has worked in middle schools in both Boston and New York City, and for Falmouth's own Compost With Me LLC and Nobska Farms Inc. When not working, you'll find Matt playing music or some kind of sport - his favorite of which is pond hockey... all the more reason to confront climate change."
       image : "images/team/mattliles.jpg"
 
 ################### call to action ###########################
