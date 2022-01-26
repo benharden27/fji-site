@@ -13,7 +13,7 @@ lead:
 ########################### land-acknowledgement ###############################
 landack:
   enable : true
-  image : "images/about/test.jpg"
+  image : "images/about/cape-cod.jpg"
   title : "Land Acknowledgement"
   leadContent : "We are living and working on the ancestral lands of the Wampannoag People who continue to thrive in the region dispite centuries of displacement, land-theft, genocide and enforced assimilation undertaken by white settlers. We are committed to knowing our Wampanoag neighbors better and including their voices in our work."
 
@@ -80,13 +80,52 @@ team:
 
     # team member loop
     - name : "Ben Harden"
-      description : "Ben is an Assistant Professor of Oceanography as the [Sea Education Association](https://www.sea.edu), where he teaches environmental research and communitcation. He is also the Course Director for the Woods Hole [Partnership Education Program](https://www.woodsholediversity.org/pep/), a diversity effort to bring students from under-represented backgrounds into the environmental science field. When not teaching, Ben can be found on his home farm in Falmouth, MA thinking of new ways to grow vegetables year round."
+      description : "Ben is an Assistant Professor of Oceanography at the [Sea Education Association](https://www.sea.edu), where he teaches environmental research and communication. He is also the Course Director for the Woods Hole [Partnership Education Program](https://www.woodsholediversity.org/pep/), a diversity effort to bring students from under-represented backgrounds into the environmental science field. When not teaching, Ben can be found on his home farm in Falmouth, MA thinking of new ways to grow vegetables year round."
       image : "images/team/benharden.jpg"
 
     # team member loop
     - name : "Matt Liles"
-      description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      description : "Matt is a Falmouth High alum, currently working as a solar system designer for Cotuit Solar LLC in Mashpee, MA. He has worked in middle schools in both Boston and New York City, and for Falmouth's own Compost With Me LLC and Nobska Farms Inc. When not working, you'll find Matt playing music or some kind of sport - his favorite of which is pond hockey... all the more reason to confront climate change."
       image : "images/team/mattliles.jpg"
+
+################### call to action ###########################
+advisor:
+  enable: true
+  title: Advisory Group
+  advisorMember:
+    - name: Barbara Burgo
+      title:
+        - Curator/Co-founding Member, Cape Cod Cape Verdean Museum & Cultural Center
+      image: images/advisors/barbara.jpg
+    - name: Greg Watson
+      title:
+        - Director of Policy and Systems Design at Schumacher Center for a New Economics
+      image: images/advisors/greg.jpg
+    - name: Julia Leschin
+      title:
+        - Garden Educator
+      image: images/advisors/julia.jpg
+    - name: Lisbeth Liles
+      title:
+        - Teacher, Falmouth Public Schools
+      image: images/advisors/liz.jpg
+    - name: Marcia Macedo
+      title:
+        - Water Program Director and Associate Scientist, Woodwell Climate Research Center
+      image: images/advisors/marcia.jpg
+    - name: Megan English Braga
+      title:
+        - Attorny at Law
+        - Falmouth Selectboard Member
+      image: images/advisors/megan.png
+    - name: Onjalé Scott Price
+      title:
+        - Chief Operating Officer, Mizar Imaging
+        - Co-Director, Woods Hole Partnership Education Program
+        - Falmouth Selectboard Member
+      image: images/advisors/onji.jpg
+
+
 
 
 
