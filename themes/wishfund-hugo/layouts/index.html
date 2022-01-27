@@ -13,7 +13,7 @@
           <p class="mb-4">{{ .content | markdownify }}</p>
           {{ if .button.enable }}
           {{ with .button }}
-          <a href="{{ .link | safeURL }}" target="_blank"
+          <a href="{{ .link | safeURL }}"
             class="btn btn-main animated fadeInUp rounded">{{ .label }}</a>
           {{ end }}
           {{ end }}
