@@ -74,17 +74,17 @@ team:
     link : "volunteer"
   teamMember:
     # team member loop
-    - name : "André Price"
-      description : "André is a Marine Resource Management Specialist at [NOAA Northeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center). He has many years of exeprience working with undergrads and in the construction, operation and management of aquatic systems. He is a course contributor to the Woods Hole [Partnership Education Program](https://www.woodsholediversity.org/pep/), a diversity effort to bring students from under-represented backgrounds into the environmental science field."
-      image : "images/team/andreprice.jpg"
+    - name: "André Price"
+      description: "André is a Marine Resource Management Specialist at [NOAA Northeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center). He has many years of experience working with undergrads and in the construction, operation and management of aquatic systems. He is a course contributor to the Woods Hole [Partnership Education Program](https://www.woodsholediversity.org/pep/), a diversity effort to bring students from under-represented backgrounds into the environmental science field."
+      image: "images/team/andreprice.jpg"
 
-    - name : "Ben Harden"
-      description : "Ben is an Assistant Professor of Oceanography at the [Sea Education Association](https://www.sea.edu), where he teaches environmental research and communication. He is also the Course Director for the Woods Hole [Partnership Education Program](https://www.woodsholediversity.org/pep/). When not teaching, Ben can be found osfdsf his home farm in Falmouth thinking of new ways to grow vegetables year round."
-      image : "images/team/benharden.jpg"
+    - name: "Ben Harden"
+      description: "Ben is an Assistant Professor of Oceanography at the [Sea Education Association](https://www.sea.edu), where he teaches environmental research and communication. He is also the Course Director for the Woods Hole [Partnership Education Program](https://www.woodsholediversity.org/pep/). When not teaching, Ben can be found on his home farm in Falmouth thinking of new ways to grow vegetables year round."
+      image: "images/team/benharden.jpg"
 
-    - name : "Matt Liles"
-      description : "Matt is a Falmouth High alum, currently working as a solar system designer for [Cotuit Solar LLC](https://cotuitsolar.com/) in Mashpee, MA. He has worked in middle schools in both Boston and New York City, and for Falmouth's own Compost With Me LLC and Nobska Farms Inc. When not working, you'll find Matt playing music or some kind of sport - his favorite of which is pond hockey... all the more reason to confront climate change."
-      image : "images/team/mattliles.jpg"
+    - name: "Matt Liles"
+      description: "Matt is a system designer for [Cotuit Solar LLC](https://cotuitsolar.com/). Since graduating from Falmouth High and UMass Amherst he has worked in education, sustainable agriculture, and renewable energy. His desire to serve his hometown community and his interest in the development of equity-based organizations brings him to FJI."
+      image: "images/team/mattliles.jpg"
 
 ################### call to action ###########################
 advisor:
@@ -99,7 +99,7 @@ advisor:
       title:
         - Director of Policy and Systems Design at Schumacher Center for a New Economics
       image: images/advisors/greg.jpg
-    - name: Julia Leschin
+    - name: Julia Leshin
       title:
         - Garden Educator
       image: images/advisors/julia.jpg
