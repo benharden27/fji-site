@@ -15,7 +15,7 @@ landack:
   enable : true
   image : "images/about/cape-cod.jpg"
   title : "Land Acknowledgement"
-  leadContent : "We are living and working on the ancestral lands of the Wampannoag People who continue to thrive in the region dispite centuries of displacement, land-theft, genocide and enforced assimilation undertaken by white settlers. We are committed to knowing our Wampanoag neighbors better and including their voices in our work."
+  leadContent : "We are living and working on the ancestral lands of the Wampanoag People who continue to thrive in the region despite centuries of displacement, land-theft, genocide and enforced assimilation undertaken by white settlers. We are committed to knowing our Wampanoag neighbors better and including their voices in our work."
 
 
 ############################# partners ##########################
@@ -75,7 +75,7 @@ team:
   teamMember:
     # team member loop
     - name: "André Price"
-      description: "André is a Marine Resource Management Specialist at [NOAA Northeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center). He has many years of experience working with undergrads and in the construction, operation and management of aquatic systems. He is a course contributor to the Woods Hole [Partnership Education Program](https://www.woodsholediversity.org/pep/), a diversity effort to bring students from under-represented backgrounds into the environmental science field."
+      description: "André is a Marine Resource Management Specialist at [NOAA Northeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center). A two-time HBCU graduate, he earned a BS of Marine Environmental Science from Elizabeth City State University and a MS of Marine-Estuarine Environmental Science from the University of Maryland Eastern Shore. André is a farming enthusiast and has experience in animal husbandry. He is a course contributor to the Woods Hole [Partnership Education Program](https://www.woodsholediversity.org/pep/), a diversity effort to bring students from under-represented backgrounds into the environmental science field."
       image: "images/team/andreprice.jpg"
 
     - name: "Ben Harden"
@@ -101,6 +101,7 @@ advisor:
       image: images/advisors/greg.jpg
     - name: Julia Leshin
       title:
+        - Horticulturist
         - Garden Educator
       image: images/advisors/julia.jpg
     - name: Lisbeth Liles
@@ -113,7 +114,7 @@ advisor:
       image: images/advisors/marcia.jpg
     - name: Megan English Braga
       title:
-        - Attorny at Law
+        - Attorney at Law
         - Falmouth Selectboard Member
       image: images/advisors/megan.png
     - name: Onjalé Scott Price
