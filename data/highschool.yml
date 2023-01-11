@@ -12,19 +12,19 @@ lead:
       - title: "Racial Justice"
         image: "images/high-school/plantation.jpg"
         imagealt: "Photograph from the North Wind Picture Archives/Alamy Stock Photo"
-        content: "Students will explore the history of racial injustices with regards to land ownership and food access and how this has shaped which people have acquired wealth and maintained access to healthy food in the present day."
+        content: "Students explore the history of racial injustices with regards to land ownership and food access and how this has shaped which people have acquired wealth and maintained access to healthy food in the present day."
       - title: "Climate Change"
         image: "images/high-school/coast.jpg"
         imagealt: "Credit: Ralph Tiner/USFWS"
-        content: With climate change expected to shift the agricultural picture and have a larger impact on low income earners and communities of color, students will explore what we can do to ensure equitable adaptation.
+        content: With climate change expected to shift the agricultural picture and have a larger impact on low income earners and communities of color, students learn about what we can do to ensure equitable outcomes.
       - title: "Farm Action"
         image: "images/high-school/crops.jpg"
         imagealt: "Credit: Hans Splinter"
-        content: "Students will take their learning literally into the field. We will use a small farm to empower students to take sustainable action and positively impact our community. They will plant healthy, culturally-appropriate food and have agency in all aspects of planning from sowing to distribution."
+        content: "Students take their learning literally into the field. We use a small farm to empower students to take sustainable action and positively impact our community. They plant healthy, culturally-appropriate food and have agency in all aspects of planning from sowing to distribution."
       - title: "Local Context"
         image: "images/high-school/emerald.jpg"
         imagealt: "Manuel Emerald with daughter Emily. 1942. Courtesy Bee Emerald"
-        content: "Cape Cod will form a major backdrop to this class given the rich agricultural history and cultural diversity of our land stewards. In order to make informed choices about the future, students need to know their neighbors, feel connected to their history, and know what impact they can have."
+        content: "Cape Cod forms a major backdrop to this program given the rich agricultural history and cultural diversity of our land stewards. In order to make informed choices about the future, students need to know their neighbors, feel connected to their history, and know what impact they can have."
 
 main:
     enable: true
@@ -35,7 +35,7 @@ main:
         * [Mashpee Wampanoag Tribe](https://mashpeewampanoagtribe-nsn.gov/)
 
         * [Cape Cod Cape Verdean Museum and Cultural Center](https://capecodcvmuseum.org/)
-        
+
         * [Woodwell Climate Research Center](https://www.woodwellclimate.org)
 "
 
@@ -51,15 +51,36 @@ main:
         * [Eastmans Hardware](https://www.acehardware.com/store-details/14066) for tool donations and deep discounts.
 
         * [Eight Cousins Bookstore](https://www.eightcousins.com/) for advice and discounts
-        * [Lawrence Lynch Corp](https://www.lawrencelynch.com/) for donating materials
 
-        * The Town of Falmouth [Department of Public Works](https://www.falmouthma.gov/157/Public-Works) for clearing trees and grading the area for construction
+        * [Lawrence Lynch Corp](https://www.lawrencelynch.com/) for donating materials.
+
+        * The Town of Falmouth [Department of Public Works](https://www.falmouthma.gov/157/Public-Works) for clearing trees, grading the area for construction, and providing other materials.
 
         * [Onset Datalogging](https://www.onsetcomp.com/) for donating a significant portion of our weather station hardware and installation.
+
+        * [Mid Cape Home Centers](https://midcape.com/) for discounted lumber.
 
 
         We have also enjoyed worked with:
 
         * [Rimol Greenhouses](https://www.rimolgreenhouses.com/)
 
-        * [Adam's Greenhouse Construction](https://adamsgreenhouseconstruction.com/)"
+        * [Adam's Greenhouse Construction](https://adamsgreenhouseconstruction.com/)
+
+        * Neil Currie, Electrician"
+
+      - title: "In the press"
+        content: "You can learn more about this project in the following articles:
+
+        * [Falmouth Public Schools Partners With Local Food Justice Organization](https://www.capenews.net/falmouth/news/falmouth-public-schools-partners-with-local-food-justice-organization/article_f9e76d2a-3d05-5e02-b170-18a7ca3020e0.html)
+
+        * [Falmouth in Focus](https://youtu.be/_aHnLcsIigo?t=1325)
+
+        * [FEF Awards 40 Grants In Falmouth Schools So Far This Year](https://www.capenews.net/falmouth/news/fef-awards-40-grants-in-falmouth-schools-so-far-this-year/article_04433780-7c28-5b58-a0d8-61f076ab33d9.html)
+
+        * [Falmouth School Committee Reviews Budget, Food Justice Program](https://www.capenews.net/falmouth/news/falmouth-school-committee-reviews-budget-food-justice-program/article_11699398-dcee-53fe-8255-406e220e066d.html)
+
+        * [Food Justice Group Looks To Bring Hands-On Program To FHS](https://www.capenews.net/falmouth/news/food-justice-group-looks-to-bring-hands-on-program-to-fhs/article_0067eac8-92b8-5dbb-b61f-6481aec82d5b.html)"
+
+      - title: "Memorandum of Understanding"
+        content: "The full text of the Memorandum of Understanding between the Food Justice Initiative and the Falmouth Public Schools can be found [here](/docs/FPS-FJI-MEMORANDUM-OF-UNDERSTANDING-July2022.pdf)"
