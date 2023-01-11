@@ -25,3 +25,10 @@ lead:
         image: "images/high-school/emerald.jpg"
         imagealt: "Manuel Emerald with daughter Emily. 1942. Courtesy Bee Emerald"
         content: "Cape Cod will form a major backdrop to this class given the rich agricultural history and cultural diversity of our land stewards. In order to make informed choices about the future, students need to know their neighbors, feel connected to their history, and know what impact they can have."
+
+main:
+    enable: true
+      - title: "Racial Justice"
+        content: "Students will explore the history of racial injustices with regards to land ownership and food access and how this has shaped which people have acquired wealth and maintained access to healthy food in the present day."
+      - title: "Climate Change"
+        content: With climate change expected to shift the agricultural picture and have a larger impact on low income earners and communities of color, students will explore what we can do to ensure equitable adaptation.

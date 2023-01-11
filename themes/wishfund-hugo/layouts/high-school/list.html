@@ -43,4 +43,21 @@
 {{ end }}
 <!-- /lead -->
 
+<!-- main -->
+{{ if .Site.Data.highschool.main.enable }}
+{{ with .Site.Data.highschool.main }}
+<section class="section about-page">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-9 about-item-content pl-4">
+        <h2 class="mb-4 content-title">{{ .title | markdownify }}</h2>
+        <p class="lead">{{ .content | markdownify }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /main -->
+
 {{ end }}
