@@ -28,7 +28,38 @@ lead:
 
 main:
     enable: true
-      - title: "Racial Justice"
-        content: "Students will explore the history of racial injustices with regards to land ownership and food access and how this has shaped which people have acquired wealth and maintained access to healthy food in the present day."
-      - title: "Climate Change"
-        content: With climate change expected to shift the agricultural picture and have a larger impact on low income earners and communities of color, students will explore what we can do to ensure equitable adaptation.
+    content:
+      - title: "Collaborations"
+        content: "So far in this program we have been fortunate enough have been working with the following groups:
+
+        * [Mashpee Wampanoag Tribe](https://mashpeewampanoagtribe-nsn.gov/)
+
+        * [Cape Cod Cape Verdean Museum and Cultural Center](https://capecodcvmuseum.org/)
+        
+        * [Woodwell Climate Research Center](https://www.woodwellclimate.org)
+"
+
+      - title: "Supporters"
+        content: "We are in the debt of a number of amazing organizations who have supported the establishment of this program.
+
+
+        Firstly, we received a significant grant from the [Falmouth Education Foundation (FEF)](https://www.falmoutheducationfnd.org/). This funded most of the start-up costs including the greenhouse, bed lumber, tools and classroom resources. FEF does amazing work in our community and we thank them for seeing the potential in our program.
+
+
+        Other organizations who have supported us:
+
+        * [Eastmans Hardware](https://www.acehardware.com/store-details/14066) for tool donations and deep discounts.
+
+        * [Eight Cousins Bookstore](https://www.eightcousins.com/) for advice and discounts
+        * [Lawrence Lynch Corp](https://www.lawrencelynch.com/) for donating materials
+
+        * The Town of Falmouth [Department of Public Works](https://www.falmouthma.gov/157/Public-Works) for clearing trees and grading the area for construction
+
+        * [Onset Datalogging](https://www.onsetcomp.com/) for donating a significant portion of our weather station hardware and installation.
+
+
+        We have also enjoyed worked with:
+
+        * [Rimol Greenhouses](https://www.rimolgreenhouses.com/)
+
+        * [Adam's Greenhouse Construction](https://adamsgreenhouseconstruction.com/)"

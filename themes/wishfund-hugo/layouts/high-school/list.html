@@ -50,8 +50,10 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-9 about-item-content pl-4">
-        <h2 class="mb-4 content-title">{{ .title | markdownify }}</h2>
-        <p class="lead">{{ .content | markdownify }}</p>
+        {{ range .content }}
+        <h4 class="mb-4 mb-3">{{ .title | markdownify }}</h4>
+        <p>{{ .content | markdownify }}</p>
+        {{ end }}
       </div>
     </div>
   </div>

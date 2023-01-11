@@ -3,7 +3,7 @@ title: "Race, Climate and Food @ FHS"
 date: 2019-09-25T11:28:32+06:00
 draft: false
 description : "this is a meta description"
-bgImage: "images/bg/falmouth-high.jpg"
+bgImage: "images/bg/hs2.jpg"
 ---
 
 We recently worked with the Falmouth Public Schools to establish a Food Justice program at Falmouth High School.
