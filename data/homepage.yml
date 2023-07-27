@@ -3,7 +3,7 @@ banner:
   enable : true
   subtitle : "Local Growing"
   title : "Sowing Seeds of <br>Social Justice"
-  content : "Empowering people to understand the injustices inherant in our food system and how to work together towards a better future through farm action."
+  content : "Empowering people to understand the injustices inherent in our food system and how to work together towards a better future through farm action."
   button:
     enable : true
     label : "Learn More"

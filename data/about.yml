@@ -67,34 +67,39 @@ history:
 ############################### Team ##############################
 team:
   enable : true
-  title : "Our Core Team"
+  title : "Our Board"
   button:
     enable : false
     label : "Become a volunteer"
     link : "volunteer"
   teamMember:
     # team member loop
-    - name: "André Price"
+    - name: "Matt Liles - President"
+      description: "Matt is a system designer for [Cotuit Solar LLC](https://cotuitsolar.com/). Since graduating from Falmouth High and UMass Amherst he has worked in education, sustainable agriculture, and renewable energy. He has participated in various local sustainability initiatives, working for Compost With Me LLC and Nobska Farms Inc., and volunteering for various farming and gardening projects across town."
+      image: "images/team/mattliles.jpg"
+
+    - name: "André Price - Vice President"
       description: "André is a Marine Resource Management Specialist at [NOAA Northeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center). A two-time HBCU graduate, he earned a BS of Marine Environmental Science from Elizabeth City State University and a MS of Marine-Estuarine Environmental Science from the University of Maryland Eastern Shore. André is a farming enthusiast and has experience in animal husbandry. He is a course contributor to the Woods Hole [Partnership Education Program](https://www.woodsholediversity.org/pep/), a diversity effort to bring students from under-represented backgrounds into the environmental science field."
       image: "images/team/andreprice.jpg"
 
-    - name: "Ben Harden"
-      description: "Ben is an Assistant Professor of Oceanography at the [Sea Education Association](https://www.sea.edu), where he teaches environmental research and communication. He is also the Course Director for the Woods Hole [Partnership Education Program](https://www.woodsholediversity.org/pep/). When not teaching, Ben can be found on his home farm in Falmouth thinking of new ways to grow vegetables year round."
-      image: "images/team/benharden.jpg"
+    - name: "Marcia Macedo - Secretary"
+      description: "Marcia is an ecologist with a deep commitment to social justice and sustainability. She is an Associate Scientist and Water Program Director at the [Woodwell Climate Research Center](https://www.woodwellclimate.org/), where she studies the effects of land use and climate changes on the forests and people of the Brazilian Amazon. When not working, you may spot Marcia rowing, puttering in her home garden, or volunteering with various community organizations around Falmouth. Marcia serves as the Secretary on the FJI Board."
+      image: "images/team/marciamacedo.jpg"
 
-    - name: "Matt Liles"
-      description: "Matt is a system designer for [Cotuit Solar LLC](https://cotuitsolar.com/). Since graduating from Falmouth High and UMass Amherst he has worked in education, sustainable agriculture, and renewable energy. He has participated in various local sustainability initiatives, working for Compost With Me LLC and Nobska Farms Inc., and volunteering for various farming and gardening projects across town."
-      image: "images/team/mattliles.jpg"
+    - name: "Krista Hennessy - Treasurer"
+      description: ""
+      image: ""
+
+
+    - name: "Barbara Burgo"
+      description: "Barbara Burgo is the Co-founder/Clerk/Curator of the [Cape Cod Cape Verdean Museum and Cultural Center, Inc.](https://capecodcvmuseum.org/) She has a B.A. in Cultural Anthropology and is an active gardener at the Emerald House Community Gardens helping to grow culturally specific crops while educating students and their families on the importance of eating fresh, locally grown fruits and vegetables. Barbara has been growing food in her backyard gardens for over 50 years"
+      image: "images/team/barbaraburgo.jpg"
 
 ################### call to action ###########################
 advisor:
   enable: true
   title: Advisory Group
   advisorMember:
-    - name: Barbara Burgo
-      title:
-        - Curator/Co-founding Member, Cape Cod Cape Verdean Museum & Cultural Center
-      image: images/advisors/barbara.jpg
     - name: Greg Watson
       title:
         - Director of Policy and Systems Design at Schumacher Center for a New Economics
@@ -108,14 +113,10 @@ advisor:
       title:
         - Teacher, Falmouth Public Schools
       image: images/advisors/liz.jpg
-    - name: Marcia Macedo
-      title:
-        - Water Program Director and Associate Scientist, Woodwell Climate Research Center
-      image: images/advisors/marcia.jpg
     - name: Megan English Braga
       title:
         - Attorney at Law
-        - Falmouth Selectboard Member
+        - Former Falmouth Selectboard Member
       image: images/advisors/megan.png
     - name: Onjalé Scott Price
       title:
@@ -123,8 +124,12 @@ advisor:
         - Co-Director, Woods Hole Partnership Education Program
         - Falmouth Selectboard Member
       image: images/advisors/onji.jpg
-
-
+    - name: Ben Harden
+      title:
+        - Co-founder, Food Justice Initiative
+        - Food Justice Instructor, Falmouth Public Schools
+        - Woods Hole Partnership Education Program Course Director
+      image: images/advisors/benharden.jpg
 
 
 
